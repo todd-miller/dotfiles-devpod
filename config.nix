@@ -12,10 +12,6 @@
         ripgrep
         fzf
         lazygit
-        kubectl
-        kubectx
-        k9s
-        fluxcd
       ];
     };
   };
